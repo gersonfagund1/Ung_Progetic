@@ -1,0 +1,39 @@
+.DivCards{
+    
+    padding-bottom:30px;
+}
+
+#DivFormLogin{
+    margin-top:30px;
+    margin-bottom:30px;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
+.TextoDados{
+    font-family:Verdana;
+    font-size: 7pt;     
+}
+
+.LinkDados{
+    font-family:Verdana;
+    font-size: 7pt;    
+    color:rgba(178,34,34,1);
+}
+
+.LinhaForm{
+    margin-top:15px;
+}
+
+.MenuTopo{
+    background-color: rgba(54,54,54,1);
+}
+
+.LinkTopo{
+    color: rgba(255,255,255,1);
+}
+
+.TopoTabela{
+    font-family:Verdana;
+    font-size: 8pt;    
+}
